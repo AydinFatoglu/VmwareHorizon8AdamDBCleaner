@@ -1,0 +1,1 @@
+# VmwareHorizon8AdamDBCleaner
